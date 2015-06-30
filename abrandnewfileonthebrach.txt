@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<h1>A brand New File On The Branch</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid ab in corrupti eos consequuntur magni, recusandae, soluta, error molestiae a rem molestias quia sed? Est provident laborum explicabo, error incidunt.</p>
+</body>
+</html>
